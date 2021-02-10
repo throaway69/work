@@ -45,7 +45,7 @@ for (const token of config.botToken) {
 
             // If you don't care about whether the messages are deleted or not, like if you created a dedicated server
             // channel just for bot spamming, you can remove the below statement and the entire prune command.
-            if (prune) message.channel.send("!prune");
+            if (prune) message.channel.send("$prune");
             count++;
 
             /* These numbers are good for if you want the messages to be deleted.

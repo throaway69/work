@@ -1,4 +1,4 @@
 {
   "botToken": [ "YOUR_TOKEN_HERE", "ANOTHER_TOKEN" ],
-  "prefix": "!"
+  "prefix": "$"
 }
